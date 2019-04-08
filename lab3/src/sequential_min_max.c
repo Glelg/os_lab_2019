@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 #include "find_min_max.h"
 #include "utils.h"
 

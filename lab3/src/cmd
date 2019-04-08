@@ -1,0 +1,2 @@
+gcc -o findp parallel_min_max.c find_min_max.c utils.c
+./findp --seed 10 --array_size 10 --pnum 2
